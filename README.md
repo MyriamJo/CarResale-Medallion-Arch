@@ -2,7 +2,7 @@
 
 An ETL pipeline that turns messy, inconsistently-formatted car resale listings into a clean, analysis-ready dataset, following the Bronze/Silver/Gold medallion pattern, then feeds a Looker Studio dashboard.
 
-Built as a hands-on data engineering task for **PwC's Jump Start Your Career programme** (Data Engineering track).
+Built as a hands-on data engineering task for **PwC ETIC's Jump Start Your Career programme** (Data Engineering track).
 
 ## Problem
 
