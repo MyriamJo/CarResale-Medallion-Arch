@@ -6,7 +6,7 @@ Built as a hands-on data engineering task for **PwC's Jump Start Your Career pro
 
 ## Problem
 
-Raw car resale data has currency symbols and text baked into numeric fields ("₹ 5.45 Lakh", "40,000 Kms", "83.1bhp"), inconsistent category spellings, and duplicate listings — none of which is usable directly for price comparison, depreciation analysis, or market trend reporting.
+Raw car resale data has currency symbols and text baked into numeric fields, inconsistent category spellings, and duplicate listings, none of which is usable directly for price comparison, depreciation analysis, or market trend reporting.
 
 ## Pipeline
 
